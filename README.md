@@ -1,4 +1,4 @@
-## Location Recommendation for a new pet store
+# Location Recommendation for a new pet store
 This project is the part of udacity's Nanodegree program (Predictive Analytics for Business Nanodegree)
 
 ## Project Overview
